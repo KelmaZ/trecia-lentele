@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+Infant:ital,wght@0,600;1,400&display=swap');
+
+table {
+    margin: 50px;
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-family: ysabeau;
+}
+
+td, th {
+    border: 2px solid black;
+}
+
+.orange {
+    background: orange;
+    color: white;
+}
+
+.blue {
+    background: #4E4FEB;
+    color: white;
+}
+
+.green {
+    background: green;
+    color: white;
+}
